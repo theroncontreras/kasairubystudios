@@ -1,2 +1,2 @@
-# kasairubystudios
-Place for Kasai Ruby Content
+# kasairubymain
+Site for Kasai Ruby content.
